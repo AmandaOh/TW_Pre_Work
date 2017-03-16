@@ -2,7 +2,7 @@
  * Created by moh on 16/3/17.
  */
 
-import java.util.*;
+import java.util.ArrayList;
 
 public class PrimeFactors {
 
